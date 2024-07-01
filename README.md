@@ -1,2 +1,2 @@
-# Desafiodeprojeto
+# ProjetoEscola
 Wireframe de Média Fidelidade
